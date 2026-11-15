@@ -1,0 +1,9 @@
+target/
+*.class
+*.log
+nbproject/private/
+.idea/
+.DS_Store
+
+# файли, які зберігає програма
+*.csv
